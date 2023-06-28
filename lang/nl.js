@@ -78,8 +78,9 @@ export default {
     kmg: {
       title: 'Kennismakingsgroepen (KMG)',
       description: `Twee keer per jaar organiseert Outsite de KMG. In een kennismakingsgroep maak je onder begeleiding
-        van twee ervaren leden kennis met de vereniging maar vooral ook met elkaar. Op negen donderdagavonden deel je
-        met elkaar je coming-out verhalen (als je dat wil), je gaat langs een gay feest en nog veel meer!`,
+      van twee ervaren leden kennis met de vereniging maar vooral ook met elkaar. Op negen donderdagavonden deel je
+      met elkaar je coming-out verhaal (als je dat wil) en kun je veel van elkaar leren over het LHBT+ zijn. 
+      Bovendien is er gelegenheid om samen te eten, ga je langs een gay feest en nog veel meer!`,
       action: 'Doe mee aan de KMG',
       sign_up: 'Aanmelden voor de KMG',
       next: `<strong>De volgende KennisMakingsGroep start in september</strong>, begin juli is er ook een leuke pre-KMG activiteit dus meld je nu aan!
