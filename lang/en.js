@@ -76,10 +76,10 @@ export default {
     title: 'Ready to check out <strong>Outsite</strong>?',
     kmg: {
       title: 'Introduction Group',
-      description: `Twice a year we organise our introduction groups. These groups are a chance to not only get to know
-      the association but also to become close to other LGBT+ youth, all under supervision of two experienced Outsite
-      members. During nine Thursday evenings, you will share coming out stories (if you want to), visit queer parties
-      together and much more!`,
+      description: 'Twice a year Outsite organises introduction groups (the so-called KMG). These groups are a chance to not only
+      get to know the association but also to become close to other LGBT+ youth, all under supervision of two experienced
+      Outsite members. During nine Thursday evenings, you will share coming out stories (if you want to) and are able to learn
+      from each other about being LGBT+. Furthermore, you may eat together, visit queer parties together and much more!',
       action: 'Join the introduction group',
       sign_up: 'Sign up for the introduction group',
       next: `<strong>The next Introduction Group will start in September</strong>, with a bonus pre-Introduction activity in July, so sign up now! The KMG is open
